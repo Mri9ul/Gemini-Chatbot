@@ -1,0 +1,3 @@
+python-dotenv == 1.2.2 #->(pip install python-dotenv)
+google-generativeai == 0.8.6 #->(pip install google-generativeai)
+streamlit == 1.55.0 #->(pip install streamlit)
